@@ -1,5 +1,7 @@
 ## Hi there I am Manasa Chavva 👋
 
+## Angular UI Front-end Developer | Crafting Intuitive User Interfaces for Seamless Experiences
+
 <!--
 **manasachavva88/manasachavva88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
