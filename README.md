@@ -2,6 +2,16 @@
 
 ## Angular UI Front-end Developer | Crafting Intuitive User Interfaces for Seamless Experiences
 
+<ul>
+   <li>🔭 I’m currently working at Accenture Solutions Pvt. Ltd. </li>
+   <li>🔭 I’m currently working on Angular front end technologies.</li>
+   <li>🌱 I’m currently learning back end frameworks(Node.js,Express).</li>
+</ul>
+
+
+ My portfolio website link - https://manasa-portfoliosite.netlify.app/
+ 
+
 <!--
 **manasachavva88/manasachavva88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
