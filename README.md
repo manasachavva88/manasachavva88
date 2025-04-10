@@ -3,7 +3,7 @@
 ## Angular UI Front-end Developer | Crafting Intuitive User Interfaces for Seamless Experiences
 
 <ul>
-   <li>🔭 I’m currently working at Accenture Solutions Pvt. Ltd. </li>
+   <li>🔭 I’m currently working at EPAM Systems. </li>
    <li>🔭 I’m currently working on Angular front end technologies.</li>
    <li>🌱 I’m currently learning back end frameworks(Node.js,Express).</li>
 </ul>
