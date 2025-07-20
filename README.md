@@ -5,11 +5,11 @@
 <ul>
    <li>🔭 I’m currently working at EPAM Systems. </li>
    <li>🔭 I’m currently working on Angular front end technologies.</li>
-   <li>🌱 I’m currently learning back end frameworks(Node.js,Express).</li>
+   <li>🌱 I’m currently learning back end frameworks(Node.js,Express,Java,SQL).</li>
 </ul>
 
 
- My portfolio website link - https://manasa-portfoliosite.netlify.app/
+ My portfolio website link - https://portfolio-manasa.netlify.app/
  
 
 <!--
